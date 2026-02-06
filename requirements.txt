@@ -1,0 +1,4 @@
+# No external dependencies required!
+# This script uses only Python standard library.
+# 
+# Minimum Python version: 3.7
