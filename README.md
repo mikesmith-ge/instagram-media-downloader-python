@@ -10,7 +10,7 @@
 
 **InstagramDownloader** is a simple, pure-Python tool that extracts media (images and videos) from public Instagram posts by parsing Open Graph meta tags. Perfect for educational purposes, prototypes, or small-scale projects.
 
-**Also available in:** [PHP](https://github.com/yourusername/instagram-media-downloader-php) | **Python** (you are here)
+**Also available in:** [PHP](https://github.com/mikesmith-ge/instagram-media-downloader-php) | **Python** (you are here)
 
 ## ✨ Features
 
@@ -167,7 +167,7 @@ This is a **basic scraper** with several important limitations:
 
 **For production use cases, bypassing rate limits, accessing stories, private content, or building commercial applications**, we recommend using a professional API solution:
 
-👉 **[Instaboost API](https://instaboost.ge)** – Enterprise-grade Instagram data API with:
+👉 **[Instaboost API](https://instaboost.ge/en/instagram)** – Enterprise-grade Instagram data API with:
 - ✅ Unlimited rate limits
 - ✅ Stories, Reels, and IGTV support
 - ✅ Private account access (with authorization)
@@ -182,7 +182,7 @@ This is a **basic scraper** with several important limitations:
 
 Looking for other implementations?
 
-- **[PHP Version](https://github.com/yourusername/instagram-media-downloader-php)** – Same functionality in PHP
+- **[PHP Version](https://github.com/mikesmith-ge/instagram-media-downloader-php)** – Same functionality in PHP
 - More tools coming soon!
 
 ## 📄 License
@@ -201,7 +201,7 @@ This tool is for **educational purposes only**. Scraping Instagram may violate t
 
 - 🐛 **Found a bug?** [Open an issue](../../issues)
 - 💡 **Have a suggestion?** [Start a discussion](../../discussions)
-- 🚀 **Need enterprise features?** [Visit Instaboost](https://instaboost.ge)
+- 🚀 **Need enterprise features?** [Visit Instaboost](https://instaboost.ge/en)
 
 ---
 
