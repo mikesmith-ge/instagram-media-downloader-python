@@ -29,7 +29,7 @@ Download `instagram_downloader.py` and use it directly:
 
 ```bash
 # Download the script
-wget https://raw.githubusercontent.com/yourusername/instagram-media-downloader-python/main/instagram_downloader.py
+wget https://raw.githubusercontent.com/mikesmith-ge/instagram-media-downloader-python/main/instagram_downloader.py
 
 # Make it executable (optional)
 chmod +x instagram_downloader.py
@@ -37,7 +37,7 @@ chmod +x instagram_downloader.py
 
 ### Option 2: Clone Repository
 ```bash
-git clone https://github.com/yourusername/instagram-media-downloader-python.git
+git clone https://github.com/mikesmith-ge/instagram-media-downloader-python.git
 cd instagram-media-downloader-python
 ```
 
