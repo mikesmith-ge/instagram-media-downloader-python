@@ -183,6 +183,8 @@ This is a **basic scraper** with several important limitations:
 Looking for other implementations?
 
 - **[PHP Version](https://github.com/mikesmith-ge/instagram-media-downloader-php)** – Same functionality in PHP
+- **[TikTok Downloader (PHP)](https://github.com/mikesmith-ge/tiktok-video-downloader-php)** – Extract TikTok videos
+- **[TikTok Downloader (Node.js)](https://github.com/mikesmith-ge/tiktok-video-downloader-nodejs)** – TikTok downloader in JavaScript
 - More tools coming soon!
 
 ## 📄 License
