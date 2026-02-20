@@ -210,6 +210,9 @@ This is a **basic scraper** with several important limitations:
 - **[Instagram Downloader (PHP)](https://github.com/mikesmith-ge/instagram-media-downloader-php)** – Same functionality in PHP
 - **[TikTok Downloader (PHP)](https://github.com/mikesmith-ge/tiktok-video-downloader-php)** – Extract TikTok videos
 - **[TikTok Downloader (Node.js)](https://github.com/mikesmith-ge/tiktok-video-downloader-nodejs)** – TikTok downloader in JavaScript
+- **[YouTube Shorts Downloader (Python)](https://github.com/mikesmith-ge/youtube-shorts-downloader-python)** – Download YouTube Shorts
+- **[YouTube Shorts Downloader (PHP)](https://github.com/mikesmith-ge/youtube-shorts-downloader-php)** – YouTube in PHP
+- **[YouTube Shorts Downloader (Node.js)](https://github.com/mikesmith-ge/youtube-shorts-downloader-nodejs)** – YouTube in JavaScript
 - [See all tools →](https://github.com/mikesmith-ge?tab=repositories)
 
 ## 📄 License
